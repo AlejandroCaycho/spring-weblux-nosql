@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: carlos.caycho
+
+  data:
+    mongodb:
+      uri: mongodb+srv://carloscaychocasas_db_user:m8owC0pVljdDe03c@cluster0.7l0y9rq.mongodb.net/07_carlos_caycho
+      database: 07_carlos_caycho
